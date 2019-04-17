@@ -279,7 +279,7 @@ font-weight: 300;
 		font-size: 1.7rem;
 	}
 
-	.ul {
+	ul {
 		flex-direction: column;
 	}
 
@@ -287,7 +287,7 @@ font-weight: 300;
 		margin: 2rem 0;
 	}
 
-	.ul {
+	ul {
 		font-size: 4.5rem;
 	}
 
@@ -303,7 +303,7 @@ font-weight: 300;
 		font-size: 3rem;
 	}
 
-	.about-details .ul {
+	.about-details ul {
 		flex-direction: initial;
 	}
 
@@ -323,7 +323,7 @@ font-weight: 300;
 
 	@media  screen and  (max-width: 600px) {
 		
-		.ul {
+		ul {
 		font-size: 3.5rem;
 		}
 		.about .container {
